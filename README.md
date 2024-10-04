@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![My Profile Picture](https://raw.githubusercontent.com/francisihe/francisihe/main/Francis%20-%20LinkedIn%20Header.png)
 
 ## Fullstack Developer | Cloud Engineer | IT Support Specialist
-
+- **Mini Portfolio**: [Francis Ihejirika - Mini Portfolio](https://www.notion.so/francisihe/Francis-Ihejirika-Mini-Portfolio-10b5046ce856808792b1fc4ef62034de)
 ---
 
 ### 🔧 Tech Stack & Tools
@@ -41,6 +41,16 @@ I’ve worked on a diverse range of projects, from custom web applications to AP
 
 ---
 
+### 📚 Technical Articles
+
+Here are some of my technical articles where I share insights and knowledge on random topics:
+
+- [How to Get Google Cloud Run Service URL Programmatically](https://medium.com/@francisihe/how-to-get-google-cloud-run-service-url-programmatically-72964e2ce344)
+- [Deploying an API with Puppeteer on Google Cloud Run](https://medium.com/@francisihe/deploying-an-api-with-puppeteer-on-google-cloud-run-aaca2baf9513)
+- [At What Point Do You Actually Become a Software Engineer?](https://medium.com/@francisihe/at-what-point-do-you-actually-become-a-software-engineer-44abb3172e8b)
+
+---
+
 ### 🚀 My Mission
 
 As a Fullstack Software Engineer and Cloud Architect, I bridge the gap between technology and business strategy. I am passionate about translating complex tech concepts into simple, actionable strategies that deliver results.
@@ -52,9 +62,10 @@ What motivates me? Tackling tough problems, optimizing processes, and collaborat
 ### 📫 Let's Connect!
 
 - **Email**: [francis.ihejirika@gmail.com](mailto:francis.ihejirika@gmail.com)
+- **Medium**: [medium.com/@francisihe](https://medium.com/@francisihe) 
 - **GitHub**: [github.com/francisihe](https://github.com/francisihe)
 - **LinkedIn**: [linkedin.com/in/francis-ihejirika](https://linkedin.com/in/francis-ihejirika)
-- **Phone**: +1 (469) 892 8855 | +234 816 514 8492
+<!-- - **Phone**: +1 (469) 892 8855 | +234 816 514 8492 -->
 
 ---
 
