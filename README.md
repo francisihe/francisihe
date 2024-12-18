@@ -23,13 +23,14 @@ Here are some ideas to get you started:
 
 ### 🔧 Tech Stack & Tools
 
-- **Languages & Frameworks**: JavaScript, React, Node.js, Python, Flask, ExpressJS, SQL, HTML, CSS, Redux
+- **Languages & Frameworks**: JavaScript, TypeScript, React, Node.js, React Native, Golang, Python, Flask, ExpressJS, SQL, HTML, CSS, Redux
 - **Databases**: PostgreSQL, Firebase, MongoDB, MySQL
 - **Cloud & DevOps**: Google Cloud, AWS, Heroku, Render, Azure, Linux, Kubernetes, Docker, CI/CD
 - **Web Technologies**: API Development, REST, Web Architecture, Git, Postman
 - **IT Support**: Infrastructure setup, DNS, Email Systems, Database & Server Management, Troubleshooting
 - **Soft Skills**: Problem-solving, Attention to detail, Analytical Thinking, Communication, Time Management, Teamwork, Interpersonal Skills, Creativity
 - **Other Tools**: WordPress, Figma, Agile, Scrum, SEO, Responsive Web Design
+- **Others**: Cloud Computing, Technical Writing
 
 ---
 
@@ -45,6 +46,7 @@ I’ve worked on a diverse range of projects, from custom web applications to AP
 
 Here are some of my technical articles where I share insights and knowledge on random topics:
 
+- [How to Automate Branch-Specific Netlify Configurations with a Bash Script: A Step-by-Step Guide](https://www.freecodecamp.org/news/how-to-automate-branch-specific-netlify-configurations-with-a-bash-script) (freeCodeCamp)
 - [How to Get Google Cloud Run Service URL Programmatically](https://medium.com/@francisihe/how-to-get-google-cloud-run-service-url-programmatically-72964e2ce344)
 - [Deploying an API with Puppeteer on Google Cloud Run](https://medium.com/@francisihe/deploying-an-api-with-puppeteer-on-google-cloud-run-aaca2baf9513)
 - [At What Point Do You Actually Become a Software Engineer?](https://medium.com/@francisihe/at-what-point-do-you-actually-become-a-software-engineer-44abb3172e8b)
