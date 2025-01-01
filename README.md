@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ![My Profile Picture](https://raw.githubusercontent.com/francisihe/francisihe/main/Francis%20-%20LinkedIn%20Header.png)
 
 ## Fullstack Developer | Cloud Engineer | IT Support Specialist
+- Google Certified Professional Cloud Architect [Credential Link](https://www.credly.com/badges/45937075-a2ef-4461-9254-120452c74d43)
 - **Mini Portfolio**: [Francis Ihejirika - Mini Portfolio](https://www.notion.so/francisihe/Francis-Ihejirika-Mini-Portfolio-10b5046ce856808792b1fc4ef62034de)
 ---
 
@@ -46,6 +47,7 @@ I’ve worked on a diverse range of projects, from custom web applications to AP
 
 Here are some of my technical articles where I share insights and knowledge on random topics:
 
+- [Technical Notes On Troubleshooting A Google Cloud Run Deployment: Fixing Scaling, Memory, and Authentication Issues While Optimizing Cost](https://medium.com/@francisihe/technical-notes-on-troubleshooting-a-google-cloud-run-deployment-fixing-scaling-memory-and-ca4434cb4b6f)
 - [How to Automate Branch-Specific Netlify Configurations with a Bash Script: A Step-by-Step Guide](https://www.freecodecamp.org/news/how-to-automate-branch-specific-netlify-configurations-with-a-bash-script) (freeCodeCamp)
 - [How to Get Google Cloud Run Service URL Programmatically](https://medium.com/@francisihe/how-to-get-google-cloud-run-service-url-programmatically-72964e2ce344)
 - [Deploying an API with Puppeteer on Google Cloud Run](https://medium.com/@francisihe/deploying-an-api-with-puppeteer-on-google-cloud-run-aaca2baf9513)
